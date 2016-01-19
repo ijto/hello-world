@@ -1,4 +1,4 @@
 # hello-world
 hello-world test repo
 
-I'am Jeremy, .NET developer !
+I'am Jeremy, .NET developer LOL
